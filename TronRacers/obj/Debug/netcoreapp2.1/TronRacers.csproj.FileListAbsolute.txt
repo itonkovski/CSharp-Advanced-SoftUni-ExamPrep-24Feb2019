@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/bin/Debug/netcoreapp2.1/TronRacers.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/bin/Debug/netcoreapp2.1/TronRacers.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/bin/Debug/netcoreapp2.1/TronRacers.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/bin/Debug/netcoreapp2.1/TronRacers.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/bin/Debug/netcoreapp2.1/TronRacers.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/obj/Debug/netcoreapp2.1/TronRacers.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/obj/Debug/netcoreapp2.1/TronRacers.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/obj/Debug/netcoreapp2.1/TronRacers.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/obj/Debug/netcoreapp2.1/TronRacers.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/TronRacers/obj/Debug/netcoreapp2.1/TronRacers.csprojAssemblyReference.cache

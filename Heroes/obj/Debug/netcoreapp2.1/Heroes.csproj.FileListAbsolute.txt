@@ -1,0 +1,9 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/bin/Debug/netcoreapp2.1/Heroes.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/bin/Debug/netcoreapp2.1/Heroes.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/bin/Debug/netcoreapp2.1/Heroes.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/bin/Debug/netcoreapp2.1/Heroes.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/bin/Debug/netcoreapp2.1/Heroes.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/obj/Debug/netcoreapp2.1/Heroes.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/obj/Debug/netcoreapp2.1/Heroes.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/obj/Debug/netcoreapp2.1/Heroes.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/Heroes/obj/Debug/netcoreapp2.1/Heroes.pdb

@@ -1,0 +1,10 @@
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/bin/Debug/netcoreapp2.1/ClubParty.deps.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/bin/Debug/netcoreapp2.1/ClubParty.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/bin/Debug/netcoreapp2.1/ClubParty.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/bin/Debug/netcoreapp2.1/ClubParty.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/bin/Debug/netcoreapp2.1/ClubParty.pdb
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/obj/Debug/netcoreapp2.1/ClubParty.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/obj/Debug/netcoreapp2.1/ClubParty.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/obj/Debug/netcoreapp2.1/ClubParty.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/obj/Debug/netcoreapp2.1/ClubParty.dll
+/Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubParty/obj/Debug/netcoreapp2.1/ClubParty.pdb
