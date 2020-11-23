@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F9A6CC4A-B1E5-4F6E-9CBA-6ADB19A2842A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp-Advanced-SoftUni-ExamPrep-24Feb2019" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClubParty PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
