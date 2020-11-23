@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/heroesAgain/heroesAgain.csproj": {}
+    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/heroesAgain/heroesAgain.csproj": {}
   },
   "projects": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/heroesAgain/heroesAgain.csproj": {
+    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/heroesAgain/heroesAgain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/heroesAgain/heroesAgain.csproj",
+        "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/heroesAgain/heroesAgain.csproj",
         "projectName": "heroesAgain",
-        "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/heroesAgain/heroesAgain.csproj",
+        "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/heroesAgain/heroesAgain.csproj",
         "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-        "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/heroesAgain/obj/",
+        "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/heroesAgain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

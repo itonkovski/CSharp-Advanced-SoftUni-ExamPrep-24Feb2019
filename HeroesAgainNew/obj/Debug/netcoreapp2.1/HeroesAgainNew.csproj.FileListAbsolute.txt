@@ -1,0 +1,3 @@
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/HeroesAgainNew/obj/Debug/netcoreapp2.1/HeroesAgainNew.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/HeroesAgainNew/obj/Debug/netcoreapp2.1/HeroesAgainNew.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/HeroesAgainNew/obj/Debug/netcoreapp2.1/HeroesAgainNew.AssemblyInfo.cs

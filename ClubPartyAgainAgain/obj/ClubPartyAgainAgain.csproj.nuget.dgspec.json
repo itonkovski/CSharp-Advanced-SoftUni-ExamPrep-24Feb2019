@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj": {}
+    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj": {}
   },
   "projects": {
-    "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj": {
+    "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj",
+        "projectUniqueName": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj",
         "projectName": "ClubPartyAgainAgain",
-        "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj",
+        "projectPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/ClubPartyAgainAgain/ClubPartyAgainAgain.csproj",
         "packagesPath": "/Users/ivaylotonkovski/.nuget/packages/",
-        "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgainAgain/obj/",
+        "outputPath": "/Users/ivaylotonkovski/Projects/C# Advanced/CSharp-Advanced-SoftUni-ExamPrep-24Feb2019/ClubPartyAgainAgain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

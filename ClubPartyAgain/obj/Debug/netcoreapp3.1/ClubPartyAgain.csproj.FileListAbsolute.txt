@@ -9,3 +9,14 @@
 /Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.AssemblyInfo.cs
 /Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.dll
 /Users/ivaylotonkovski/Projects/ExamPrepAdvanced24Feb1029/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.pdb
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/bin/Debug/netcoreapp3.1/ClubPartyAgain
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/bin/Debug/netcoreapp3.1/ClubPartyAgain.deps.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/bin/Debug/netcoreapp3.1/ClubPartyAgain.runtimeconfig.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/bin/Debug/netcoreapp3.1/ClubPartyAgain.runtimeconfig.dev.json
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/bin/Debug/netcoreapp3.1/ClubPartyAgain.dll
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/bin/Debug/netcoreapp3.1/ClubPartyAgain.pdb
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.csprojAssemblyReference.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.AssemblyInfoInputs.cache
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.AssemblyInfo.cs
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.dll
+/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/ClubPartyAgain/obj/Debug/netcoreapp3.1/ClubPartyAgain.pdb

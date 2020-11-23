@@ -1,16 +1,23 @@
-﻿<Properties StartupConfiguration="{5271AC54-4828-4915-ACB9-324680E3111C}|Default">
-  <MonoDevelop.Ide.ItemProperties.ClubPartyAgainAgain FirstBuild="True" />
+﻿<Properties StartupConfiguration="{EB93773F-F8C3-4DAE-B54D-BED0A7F3D774}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClubPartyAgainAgain FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TronRacersAgain PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ClubPartyAgainAgainAgain FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.heroesAgain FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClubParty/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tronRacersAgainAgainAgain/Program.cs">
     <Files>
-      <File FileName="ClubParty/Program.cs" Line="19" Column="1" />
+      <File FileName="tronRacersAgainAgainAgain/Program.cs" Line="10" Column="1" />
+      <File FileName="TronRacers/Program.cs" Line="9" Column="12" NotebookId="1" />
+      <File FileName="TronRacersAgain/Program.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExamPrepAdvanced24Feb1029" expanded="True">
-            <Node name="ClubParty" expanded="True">
+            <Node name="ClubPartyAgainAgain" expanded="True" />
+            <Node name="ClubPartyAgainAgainAgain" expanded="True" />
+            <Node name="TronRacers" expanded="True" />
+            <Node name="TronRacersAgain" expanded="True" />
+            <Node name="tronRacersAgainAgainAgain" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,17 +25,16 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tronRacersAgainAgainAgain FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Heroes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ClubPartyAgain PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ivaylotonkovski/Projects/C# Advanced/ExamPrep---SoftUni-CSharp-Advanced-24Feb2019/TronRacers/Program.cs" relfile="TronRacers/Program.cs" line="25" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TronRacers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ClubParty PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.HeroesAgainNew FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HeroesAgainNew PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
