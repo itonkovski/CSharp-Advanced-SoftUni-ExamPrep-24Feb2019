@@ -1,9 +1,23 @@
-﻿<Properties StartupConfiguration="{F9A6CC4A-B1E5-4F6E-9CBA-6ADB19A2842A}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{BC549733-9918-4C2B-B6C4-4688D492060E}|Default">
+  <MonoDevelop.Ide.ItemProperties.HeroesNewPractise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HeroesNewPractise/HeroRepository.cs">
+    <Files>
+      <File FileName="HeroesNewPractise/Program.cs" Line="9" Column="1" />
+      <File FileName="HeroesNewPractise/Item.cs" Line="28" Column="43" />
+      <File FileName="HeroesNewPractise/EmptyClass.cs" Line="29" Column="44" />
+      <File FileName="HeroesAgainNew/Hero.cs" Line="1" Column="1" />
+      <File FileName="HeroesNewPractise/HeroRepository.cs" Line="73" Column="43" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CSharp-Advanced-SoftUni-ExamPrep-24Feb2019" expanded="True" selected="True" />
+          <Node name="CSharp-Advanced-SoftUni-ExamPrep-24Feb2019" expanded="True">
+            <Node name="HeroesAgainNew" expanded="True" />
+            <Node name="HeroesNewPractise" expanded="True">
+              <Node name="HeroRepository.cs" selected="True" />
+            </Node>
+            <Node name="tronRacersAgainAgainAgain" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>

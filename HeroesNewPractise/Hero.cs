@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace HeroesAgainNew
+namespace HeroesNewPractise
 {
     public class Hero
     {
@@ -13,9 +13,7 @@ namespace HeroesAgainNew
         }
 
         public string Name { get; set; }
-
         public int Level { get; set; }
-
         public Item Item { get; set; }
 
         public override string ToString()
@@ -24,9 +22,9 @@ namespace HeroesAgainNew
 
             sb
                 .AppendLine($"Hero: {this.Name} – {this.Level}lvl")
-                .AppendLine($"Item:");
-            sb        
+                .AppendLine($"Item:")
                 .AppendLine(this.Item.ToString());
+            
 
             return sb.ToString().TrimEnd();
         }
